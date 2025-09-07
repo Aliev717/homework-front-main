@@ -8,13 +8,13 @@ import React from "react";
 function App() {
   return (
     <div className="App">
-        <h1>Users</h1>
-      {/*<HW1 />*/}
+      <HW1 />
       {/*<HW2 />*/}
       {/*<HW3 />*/}
       {/*<HW4 />*/}
     </div>
   );
 }
+
 
 export default App;
